@@ -12,5 +12,5 @@
                             <input class="waves-effect waves-light btn " type= "submit" value="Ingresar">
                         </form>
                     </div>
- <div class = "center">
+ 
 {include file="templates/Cabeceras/Footer.tpl}
