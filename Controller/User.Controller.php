@@ -9,7 +9,7 @@ Class User
         $cont=0;     
     foreach($user as $u)
     {
-        if($u['user']==$usuario && $u['pass']==$password)   
+        if($u['user']==$user && $u['pass']==$pass)   
         {
             $estado=true;
             $cont++;    
