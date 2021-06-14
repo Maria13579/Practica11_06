@@ -15,7 +15,7 @@
             ];
             $smarty->assign('datos',$vec);
             $smarty->assign('nombre','Login');
-            $smarty->display('Home.tpl');
+            $smarty->display('User.Controller.php');
         }
     }
 ?>
