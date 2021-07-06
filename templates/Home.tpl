@@ -3,7 +3,7 @@
   <div class="card-panel teal lighten-2 "><h1 class="center-align">Inicie Sesion</h1> </div>
                 <br/><br/>
                     <div align = "center">
-                        <form method="post" action="?class=user&method=iniciosesion" >
+                        <form method="post" action="?class=User&method=InicioSesion" >
                             <input class ="left" type="text" name="user" placeholder="Ingrese su Usuario">   
                             <br/><br/>
                             <input type="password" name="pass" placeholder="Ingrese su Contraseña">
